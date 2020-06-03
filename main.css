@@ -19,6 +19,11 @@ body {
     font-size: 16px;
     padding: 10px;
   }
+  header a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+  }
   main {
     background-color: lightgray;
     padding: 10px;
